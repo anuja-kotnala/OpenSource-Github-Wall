@@ -141,6 +141,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/Mihir4510'>
+<img src='https://github.com/Mihir4510.png' width='80px' style='border-radius:50%'><br>
+<sub><b>Mihir4510</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/nayr-rc'>
 <img src='https://github.com/nayr-rc.png' width='80px' style='border-radius:50%'><br>
 <sub><b>nayr-rc</b></sub>
@@ -152,14 +158,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>Pavan-Mahesh</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/sapta0069'>
 <img src='https://github.com/sapta0069.png' width='80px' style='border-radius:50%'><br>
 <sub><b>sapta0069</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/shaikwahab01'>
 <img src='https://github.com/shaikwahab01.png' width='80px' style='border-radius:50%'><br>
